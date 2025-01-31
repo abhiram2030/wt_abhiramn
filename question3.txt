@@ -1,0 +1,1 @@
+In this code, the target attribute is set to _blank, which tells the browser to open the link in a new tab.If we remove the target attribute, the link will open in the same tab, replacing the current page. The behavior of the link will change in that it will no longer open in a new tab, but instead will navigate away from the current page.
